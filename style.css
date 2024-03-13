@@ -1,0 +1,96 @@
+.first-img{
+    background-color: gray;
+    overflow: auto;
+    
+}
+body{
+    background-color: rgb(135, 206, 235);
+    margin: 0px;
+    padding: 0px;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    list-style: none;
+    
+    
+
+}
+img{
+    float: left;
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+}
+.second-img{
+    
+    background-image: url(books1.jpg);
+    height: 200px;
+    color: white;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.button{
+    background-color: re;
+    padding: 0px 0px 0px 400px;
+}
+
+button{
+    background-color: blue;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    
+    
+}
+
+h1{
+    margin: 0;
+    float: center;
+}
+h2{
+    text-align: center;
+}
+main{
+    margin: 0 auto;
+    max-width: 1000px;
+    
+}
+table{
+
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+
+table tr{
+    background-color: aquamarine;
+    
+    
+}
+.header{
+    background-color: white;
+}
+.header1{
+    background-color: white;
+    text-align: right;
+}
+
+.year{
+    float: right;
+}
+footer{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
